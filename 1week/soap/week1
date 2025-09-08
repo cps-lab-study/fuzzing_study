@@ -1,1 +1,1 @@
-
+/home/soap/fuzzing_xpdf/install/bin/pdfinfo -box -meta /home/soap/fuzzing_xpdf/pdf_examples/small-example-pdf-file.pdf
